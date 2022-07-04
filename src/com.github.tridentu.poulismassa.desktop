@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+
+Name=PoulisMassa
+GenericName=The Tridentu-RK equivalent of GNOME boxes.
+Icon=poulismassa
+
+Exec=poulismassa
+StartupWMClass=poulismassa
+X-DocPath=poulismassa/index.html
